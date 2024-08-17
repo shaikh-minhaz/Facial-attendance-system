@@ -1,0 +1,10 @@
+tensorflow~=2.15.0
+opencv-python~=4.9.0.80
+numpy~=1.26.0
+DateTime~=5.4
+pygame~=2.5.2
+xlwings~=0.30.15
+pillow~=10.2.0
+deepface~=0.0.84
+openpyxl~=3.1.2
+PyMySQL~=1.1.0
